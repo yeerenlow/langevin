@@ -1,7 +1,7 @@
 # langevin
-https://arxiv.org/abs/2312.04585
-
 Numerical simulations for Langevin equations
+
+https://doi.org/10.48550/arXiv.2312.04585
 
 python==3.6
 
